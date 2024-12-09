@@ -46,3 +46,9 @@
 ## Optional Steps
 - **Pull Changes from the Remote Repository**:  
    Before making your changes, click **Fetch origin** and then **Pull origin** to ensure you have the latest updates from the repository.
+
+---
+
+## Additional Resources
+- [GitHub Desktop Documentation](https://docs.github.com/en/desktop): Comprehensive guide to using GitHub Desktop.
+- [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE): Video overview of Git, GitHub and GitHub Desktop.
