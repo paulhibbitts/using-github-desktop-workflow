@@ -4,8 +4,12 @@
 1. Navigate to the repository you want to clone on the **GitHub website**.
 2. Click the green **<> Code** button on the repository page.
 3. In the dropdown menu, select **Open with GitHub Desktop**.
-4. A prompt will open in GitHub Desktop. Confirm the local path where you want to save the repository (you can change it if necessary).
-5. Click **Clone** to download the repository to your desktop.
+4. If **GitHub Desktop** is not installed:
+   - Download it from [desktop.github.com](https://desktop.github.com/) and install it.
+   - Launch GitHub Desktop and sign in with your GitHub account.
+   - Return to the repository page on GitHub and repeat steps 2 and 3.
+5. A prompt will open in GitHub Desktop. Confirm the local path where you want to save the repository (you can change it if necessary).
+6. Click **Clone** to download the repository to your desktop.
 
 ---
 
