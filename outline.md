@@ -43,8 +43,8 @@
 
 ---
 
-## Optional Steps
-- **Pull Changes from the Remote Repository**:  
+## Important Reminder
+- **First Pull Changes from the Remote Repository**:  
    Before making your changes, click **Fetch origin** and then **Pull origin** to ensure you have the latest updates from the repository.
 
 ---
