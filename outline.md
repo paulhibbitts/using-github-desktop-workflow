@@ -1,6 +1,6 @@
 # Workflow to Clone, Edit, and Push Changes to a GitHub Repository
 
-## Step 1: Clone the Repository to Your Desktop
+## Step 1: Initially Clone the Repository to Your Desktop
 1. Navigate to the repository you want to clone on the **GitHub website**.
 2. Click the green **<> Code** button on the repository page.
 3. In the dropdown menu, select **Open with GitHub Desktop**.
