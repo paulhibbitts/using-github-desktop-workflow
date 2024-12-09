@@ -45,7 +45,7 @@
 
 ## Important Reminder
 - **First Pull Changes from the Remote Repository**:  
-   Before making your changes, click **Fetch origin** and then **Pull origin** to ensure you have the latest updates from the repository.
+   Before making your changes, open **GitHub Desktop** and click **Fetch origin** and then **Pull origin** to ensure you have the latest updates from the repository.
 
 ---
 
